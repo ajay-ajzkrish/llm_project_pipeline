@@ -1,4 +1,3 @@
 pipeline
 streamlit
 transformers
-torch
